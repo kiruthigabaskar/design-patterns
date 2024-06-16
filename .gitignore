@@ -1,0 +1,85 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IDEA project files
+.idea/
+*.iml
+
+# Ignore Gradle files
+.gradle/
+build/
+out/
+
+# Kotlin specific files
+*.kotlin_metadata
+*.kotlin_module
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+
+# Lombok generated files
+.lombok/
+
+# Spring Boot devtools
+.spring-boot-devtools.properties
+
+# Local environment variable files
+.env
+
+
+# Temporary files
+*.swp
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Custom directory for IDEs
+.custom_ide/
+
+# Environment-specific files
+.env.local
+.env.*.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Ignore Gradle wrapper jar file
+gradle/wrapper/gradle-wrapper.jar
+
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
